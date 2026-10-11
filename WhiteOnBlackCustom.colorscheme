@@ -1,0 +1,117 @@
+# Based on WhiteOnBlack. We made the following modifications:
+# 
+# Color2:
+#        original: 24,178,24
+#             new: 20,133,38
+#     description: From https://www.color-hex.com/color/148526.
+#
+# Color2Intense:
+#        original: 84,255,84
+#             new: 87,227,137
+#     description: The original color is a bit too "yellow".
+#
+# Color4Intense:
+#        original: 84,84,255
+#             new: 0,134,233
+#     description: The original blue color is a bit too "purple".
+#
+# Color6Intense:
+#        original: 84,84,255
+#             new: 45,220,243
+#     description: From https://www.colourlovers.com/color/2DDCF3/cyan.
+
+[Background]
+Color=0,0,0
+
+[BackgroundIntense]
+Color=0,0,0
+
+[BackgroundFaint]
+Color=0,0,0
+
+[Color0]
+Color=0,0,0
+
+[Color0Intense]
+Color=104,104,104
+
+[Color0Faint]
+Color=24,24,24
+
+[Color1]
+Color=178,24,24
+
+[Color1Intense]
+Color=255,84,84
+
+[Color1Faint]
+Color=101,0,0
+
+[Color2]
+Color=20,133,38
+
+[Color2Intense]
+# Color=84,255,84
+Color=87,227,137
+
+[Color2Faint]
+Color=0,101,0
+
+[Color3]
+Color=178,104,24
+
+[Color3Intense]
+Color=255,255,84
+
+[Color3Faint]
+Color=101,74,0
+
+[Color4]
+Color=24,24,178
+
+[Color4Intense]
+Color=0,134,233
+
+[Color4Faint]
+Color=0,0,101
+
+[Color5]
+Color=178,24,178
+
+[Color5Intense]
+Color=255,84,255
+
+[Color5Faint]
+Color=95,5,95
+
+[Color6]
+Color=24,178,178
+
+[Color6Intense]
+Color=45,220,243
+
+[Color6Faint]
+Color=24,178,178
+
+[Color7]
+Color=178,178,178
+
+[Color7Intense]
+Color=255,255,255
+
+[Color7Faint]
+Color=101,101,101
+
+[Foreground]
+Color=255,255,255
+
+[ForegroundIntense]
+Bold=true
+Color=255,255,255
+
+[ForegroundFaint]
+Color=255,255,255
+
+[General]
+Description=White on Black Custom
+Opacity=1
